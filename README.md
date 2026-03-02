@@ -6,7 +6,8 @@ Files:
 - `index.html` – page content
 - `style.css` – visual style
 - `script.js` – interactivity
-- `background1.jpg` – example background image
+- `background1.jpg` – example first background image
+- `background2.jpg` – example second background image
 - `start_button.png` – example button image
 
 

@@ -1,0 +1,17 @@
+{
+  "name": "Code2Escape Classroom Codespace",
+
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-preview"
+      ],
+      "settings": {
+        "livePreview.defaultPreviewPath": "/index.html",
+        "livePreview.openPreviewTarget": "beside"
+      }
+    }
+  }
+}

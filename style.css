@@ -41,7 +41,6 @@ body {
 
 /* IMAGE BUTTON */
 #imageButton {
-  cursor: pointer;
   width: 200px;
   height: auto;
 }
